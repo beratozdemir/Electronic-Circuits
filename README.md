@@ -2,3 +2,5 @@
 In this section I will share the diagrams of the circuits 
 I have applied and the graphics I have obtained. 
 This section is more hardware than other departments.
+You can access the data from the Files section. 
+Good work.
